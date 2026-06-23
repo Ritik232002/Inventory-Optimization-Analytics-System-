@@ -1,0 +1,558 @@
+date,invoice_no,party_name,transaction_type,total_amount,payment_type,received_paid_amount,balance_due,month,name_of_the_month,day_name,week,is_cash_sale
+4/8/2026,329,nisha,Sale,"₹10,196.00",ONLINE,"₹10,196.00",₹0.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,330,Cash Sale (7354698550),Sale,₹625.00,ONLINE,₹625.00,₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,331,Cash Sale (7354420123),Sale,"₹2,329.00",CASH,"₹2,329.00",₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,332,mamta agarwal,Sale,"₹1,662.00",CASH,₹0.00,"₹1,662.00",2026-04,April,Wednesday,15,FALSE
+4/8/2026,333,kamlesh,Sale,"₹1,046.00",CASH,"₹1,046.00",₹0.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,334,kamlesh,Sale,"₹2,145.00",CASH,"₹2,145.00",₹0.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,335,praveen meenal steel,Sale,"₹1,462.00",CASH,₹0.00,"₹1,462.00",2026-04,April,Wednesday,15,FALSE
+4/8/2026,336,ravi sir,Sale,"₹13,123.50",CASH,"₹13,123.50",₹0.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,337,Cash Sale,Sale,₹540.00,CASH,₹540.00,₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,338,Cash Sale,Sale,₹440.00,CASH,₹440.00,₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,339,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,340,ravi ji,Sale,"₹1,088.00",CASH,"₹1,000.00",₹88.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,341,kolar tehsil,Sale,₹820.00,CASH,₹820.00,₹0.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,342,Cash Sale (PANNA KOLAR),Sale,₹525.00,CASH,₹525.00,₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,343,Cash Sale,Sale,₹300.00,CASH,₹300.00,₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,344,Cash Sale,Sale,"₹4,293.00",CASH,"₹4,293.00",₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,345,Cash Sale,Sale,"₹9,161.00",CASH,"₹9,161.00",₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,346,YOGESH,Sale,"₹2,760.00",CASH,₹0.00,"₹2,760.00",2026-04,April,Wednesday,15,FALSE
+4/8/2026,347,GOVIND ALU. SELF,Sale,₹830.00,CASH,₹830.00,₹0.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,348,Cash Sale,Sale,"₹7,225.00",CASH,"₹7,225.00",₹0.00,2026-04,April,Wednesday,15,TRUE
+4/8/2026,349,praveen meenal steel,Sale,₹95.00,CASH,₹0.00,₹95.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,350,praveen meenal steel,Sale,₹933.00,CASH,₹0.00,₹933.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,351,Shreyansh soni,Sale,₹783.00,CASH,₹500.00,₹283.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,352,praveen meenal steel,Sale,"₹1,823.00",CASH,₹0.00,"₹1,823.00",2026-04,April,Wednesday,15,FALSE
+4/8/2026,353,praveen meenal steel,Sale,₹283.00,CASH,₹0.00,₹283.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,354,YOGESH,Sale,₹394.00,CASH,₹0.00,₹394.00,2026-04,April,Wednesday,15,FALSE
+4/8/2026,355,Cash Sale (7354420123),Sale,"₹2,329.00",CASH,"₹2,329.00",₹0.00,2026-04,April,Wednesday,15,TRUE
+4/9/2026,356,Cash Sale,Sale,"₹4,700.00",CASH,"₹4,700.00",₹0.00,2026-04,April,Thursday,15,TRUE
+4/9/2026,357,aameer,Sale,"₹18,130.00",CASH,₹0.00,"₹18,130.00",2026-04,April,Thursday,15,FALSE
+4/9/2026,358,ravi ji,Sale,₹630.00,CASH,₹630.00,₹0.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,359,Cash Sale,Sale,"₹3,090.00",CASH,"₹3,090.00",₹0.00,2026-04,April,Thursday,15,TRUE
+4/9/2026,360,Cash Sale,Sale,₹207.00,CASH,₹207.00,₹0.00,2026-04,April,Thursday,15,TRUE
+4/9/2026,361,Cash Sale,Sale,₹709.00,CASH,₹709.00,₹0.00,2026-04,April,Thursday,15,TRUE
+4/9/2026,362,bhoomika,Sale,"₹5,965.00",CASH,₹0.00,"₹5,965.00",2026-04,April,Thursday,15,FALSE
+4/9/2026,363,shubham wishwakarma,Sale,₹840.00,CASH,₹840.00,₹0.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,364,Cash Sale,Sale,₹120.00,CASH,₹0.00,₹120.00,2026-04,April,Thursday,15,TRUE
+4/9/2026,365,chhotu faheem,Sale,₹729.00,CASH,₹0.00,₹729.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,366,chhotu faheem,Sale,₹200.00,CASH,₹0.00,₹200.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,367,Cash Sale,Sale,₹50.00,CASH,₹50.00,₹0.00,2026-04,April,Thursday,15,TRUE
+4/9/2026,368,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,369,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,370,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,371,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,15,FALSE
+4/9/2026,372,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,15,FALSE
+4/10/2026,373,Cash Sale,Sale,₹916.00,CASH,₹916.00,₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,374,sardar ji binny,Sale,"₹3,942.00",CASH,₹0.00,"₹3,942.00",2026-04,April,Friday,15,FALSE
+4/10/2026,375,Cash Sale,Sale,₹294.00,CASH,₹294.00,₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,376,bhavnaresh,Sale,"₹4,411.00",CASH,"₹4,411.00",₹0.00,2026-04,April,Friday,15,FALSE
+4/10/2026,377,Cash Sale,Sale,"₹2,160.00",CASH,"₹2,160.00",₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,378,anil jha,Sale,"₹8,640.00",CASH,₹0.00,"₹8,640.00",2026-04,April,Friday,15,FALSE
+4/10/2026,379,sai prabha,Sale,₹520.00,CASH,₹0.00,₹520.00,2026-04,April,Friday,15,FALSE
+4/10/2026,380,Cash Sale,Sale,₹804.00,CASH,₹754.00,₹50.00,2026-04,April,Friday,15,TRUE
+4/10/2026,381,Cash Sale,Sale,₹385.00,CASH,₹385.00,₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,382,yadav steel,Sale,₹700.00,CASH,₹0.00,₹700.00,2026-04,April,Friday,15,FALSE
+4/10/2026,383,Cash Sale (rakesh),Sale,₹600.00,CASH,₹600.00,₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,384,bhoomika,Sale,"₹5,134.00",CASH,₹0.00,"₹5,134.00",2026-04,April,Friday,15,FALSE
+4/10/2026,385,Cash Sale,Sale,₹30.00,CASH,₹30.00,₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,386,Cash Sale,Sale,"₹4,847.00",CASH,"₹4,847.00",₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,387,Cash Sale,Sale,₹558.00,CASH,₹558.00,₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,388,Cash Sale,Sale,₹115.00,CASH,₹115.00,₹0.00,2026-04,April,Friday,15,TRUE
+4/10/2026,389,shubham wishwakarma,Sale,"₹38,739.00",CASH,"₹10,000.00","₹28,739.00",2026-04,April,Friday,15,FALSE
+4/10/2026,390,Cash Sale (vicky azam),Sale,"₹2,195.00",ONLINE,"₹1,565.00",₹630.00,2026-04,April,Friday,15,TRUE
+4/10/2026,391,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Friday,15,FALSE
+4/11/2026,392,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,393,Cash Sale,Sale,₹411.00,CASH,₹411.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,394,yadav steel,Sale,"₹1,242.00",CASH,₹0.00,"₹1,242.00",2026-04,April,Saturday,15,FALSE
+4/11/2026,395,Cash Sale (YOGENDRA JI),Sale,₹500.00,CASH,₹500.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,396,Cash Sale (YOGENDRA),Sale,₹576.00,CASH,₹576.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,397,bhoomika,Sale,₹300.00,CASH,₹0.00,₹300.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,398,Cash Sale,Sale,₹125.00,CASH,₹125.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,399,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,400,Cash Sale,Sale,₹60.00,CASH,₹60.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,401,Cash Sale,Sale,"₹1,393.00",CASH,₹943.00,₹450.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,402,yadav steel,Sale,"₹1,726.00",CASH,"₹1,186.00",₹540.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,403,kamlesh,Sale,₹189.00,CASH,₹189.00,₹0.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,404,sai prabha,Sale,₹540.00,CASH,₹0.00,₹540.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,405,Cash Sale,Sale,₹936.00,ONLINE,₹936.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,406,Cash Sale (nisha),Sale,₹165.00,ONLINE,₹165.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/11/2026,407,sardar ji binny,Sale,₹640.00,ONLINE,₹0.00,₹640.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,408,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Saturday,15,FALSE
+4/11/2026,409,Cash Sale,Sale,₹168.00,ONLINE,₹168.00,₹0.00,2026-04,April,Saturday,15,TRUE
+4/12/2026,410,Cash Sale (yogendra),Sale,₹90.00,ONLINE,₹90.00,₹0.00,2026-04,April,Sunday,15,TRUE
+4/12/2026,411,Cash Sale,Sale,"₹1,625.00",ONLINE,"₹1,625.00",₹0.00,2026-04,April,Sunday,15,TRUE
+4/12/2026,428,praveen meenal steel,Sale,₹832.00,CASH,₹0.00,₹832.00,2026-04,April,Sunday,15,FALSE
+4/12/2026,430,praveen meenal steel,Sale,₹397.00,CASH,₹0.00,₹397.00,2026-04,April,Sunday,15,FALSE
+4/12/2026,541,shubham wishwakarma,Sale,"₹4,476.00",CASH,"₹4,000.00",₹476.00,2026-04,April,Sunday,15,FALSE
+4/13/2026,412,Cash Sale,Sale,₹120.00,ONLINE,₹120.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,413,Cash Sale,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,414,anil jha,Sale,"₹2,850.00",ONLINE,₹0.00,"₹2,850.00",2026-04,April,Monday,16,FALSE
+4/13/2026,415,Cash Sale,Sale,₹100.00,ONLINE,₹100.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,416,Cash Sale (ganesh ji),Sale,₹770.00,ONLINE,₹770.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,417,Cash Sale,Sale,₹798.00,ONLINE,₹798.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,418,YOGESH,Sale,"₹1,400.00",CASH,"₹1,400.00",₹0.00,2026-04,April,Monday,16,FALSE
+4/13/2026,419,Cash Sale (shiva dubey),Sale,₹399.00,CASH,₹399.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,420,Cash Sale,Sale,"₹1,305.00",CASH,"₹1,305.00",₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,421,Cash Sale,Sale,₹450.00,CASH,₹450.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,422,Cash Sale (mayank ji (d-mart)),Sale,"₹3,823.00",CASH,"₹3,823.00",₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,423,Cash Sale (MAYANK JI),Sale,"₹5,119.00",CASH,"₹5,119.00",₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,424,Cash Sale (PANNA LAL),Sale,"₹1,026.00",CASH,"₹1,026.00",₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,425,Cash Sale,Sale,"₹1,360.00",CASH,"₹1,360.00",₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,426,Cash Sale,Sale,₹180.00,CASH,₹180.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,427,yadav steel,Sale,"₹1,835.00",CASH,₹0.00,"₹1,835.00",2026-04,April,Monday,16,FALSE
+4/13/2026,429,praveen meenal steel,Sale,₹153.00,CASH,₹0.00,₹153.00,2026-04,April,Monday,16,FALSE
+4/13/2026,431,Cash Sale,Sale,₹136.00,ONLINE,₹136.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,432,YOGENDRA,Sale,₹898.00,ONLINE,₹817.00,₹81.00,2026-04,April,Monday,16,FALSE
+4/13/2026,433,Cash Sale,Sale,₹705.00,ONLINE,₹705.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,434,Cash Sale (RAHUL),Sale,₹350.00,ONLINE,₹350.00,₹0.00,2026-04,April,Monday,16,TRUE
+4/13/2026,438,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Monday,16,FALSE
+4/13/2026,439,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Monday,16,FALSE
+4/13/2026,440,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Monday,16,FALSE
+4/13/2026,441,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Monday,16,FALSE
+4/14/2026,435,mamta agarwal,Sale,"₹5,659.00",ONLINE,₹0.00,"₹5,659.00",2026-04,April,Tuesday,16,FALSE
+4/14/2026,436,anil jha,Sale,"₹3,944.00",ONLINE,₹0.00,"₹3,944.00",2026-04,April,Tuesday,16,FALSE
+4/14/2026,437,nisha,Sale,"₹10,297.00",ONLINE,"₹10,000.00",₹297.00,2026-04,April,Tuesday,16,FALSE
+4/14/2026,442,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Tuesday,16,FALSE
+4/14/2026,443,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Tuesday,16,FALSE
+4/14/2026,444,Cash Sale (golu),Sale,"₹7,115.00",ONLINE,"₹7,115.00",₹0.00,2026-04,April,Tuesday,16,TRUE
+4/14/2026,445,ganesh,Sale,₹473.00,ONLINE,₹473.00,₹0.00,2026-04,April,Tuesday,16,FALSE
+4/14/2026,446,Cash Sale (basant),Sale,"₹1,953.00",ONLINE,"₹1,953.00",₹0.00,2026-04,April,Tuesday,16,TRUE
+4/14/2026,447,Cash Sale (GOLU),Sale,"₹2,908.00",ONLINE,"₹2,908.00",₹0.00,2026-04,April,Tuesday,16,TRUE
+4/14/2026,448,Cash Sale,Sale,₹578.00,ONLINE,₹578.00,₹0.00,2026-04,April,Tuesday,16,TRUE
+4/14/2026,449,Cash Sale,Sale,₹568.00,ONLINE,₹568.00,₹0.00,2026-04,April,Tuesday,16,TRUE
+4/14/2026,450,pawan,Sale,₹420.00,ONLINE,₹0.00,₹420.00,2026-04,April,Tuesday,16,FALSE
+4/15/2026,451,Cash Sale,Sale,₹842.00,ONLINE,₹842.00,₹0.00,2026-04,April,Wednesday,16,TRUE
+4/15/2026,452,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Wednesday,16,FALSE
+4/15/2026,453,satish star office,Sale,"₹1,260.00",ONLINE,₹0.00,"₹1,260.00",2026-04,April,Wednesday,16,FALSE
+4/15/2026,454,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Wednesday,16,FALSE
+4/15/2026,455,mamta agarwal,Sale,₹75.00,CASH,₹0.00,₹75.00,2026-04,April,Wednesday,16,FALSE
+4/15/2026,456,Cash Sale,Sale,"₹8,792.00",CASH,"₹8,792.00",₹0.00,2026-04,April,Wednesday,16,TRUE
+4/15/2026,457,Cash Sale,Sale,"₹1,364.00",CASH,"₹1,364.00",₹0.00,2026-04,April,Wednesday,16,TRUE
+4/15/2026,458,Cash Sale (raja bhai),Sale,₹150.00,CASH,₹150.00,₹0.00,2026-04,April,Wednesday,16,TRUE
+4/15/2026,459,Cash Sale (sunny meena),Sale,"₹4,336.00",CASH,"₹3,076.00","₹1,260.00",2026-04,April,Wednesday,16,TRUE
+4/15/2026,460,Cash Sale,Sale,₹90.00,CASH,₹90.00,₹0.00,2026-04,April,Wednesday,16,TRUE
+4/15/2026,461,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Wednesday,16,FALSE
+4/15/2026,462,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Wednesday,16,FALSE
+4/15/2026,463,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Wednesday,16,FALSE
+4/16/2026,464,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,16,FALSE
+4/16/2026,465,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,16,FALSE
+4/16/2026,466,Cash Sale (nisha),Sale,"₹2,760.00",CASH,"₹2,760.00",₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,467,Cash Sale (sandeep),Sale,"₹1,518.00",CASH,"₹1,518.00",₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,468,Cash Sale (hari bhai),Sale,"₹1,120.00",ONLINE,"₹1,093.00",₹27.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,469,anil jha,Sale,₹862.00,ONLINE,₹0.00,₹862.00,2026-04,April,Thursday,16,FALSE
+4/16/2026,470,Cash Sale,Sale,₹360.00,ONLINE,₹360.00,₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,471,Cash Sale (golu),Sale,"₹3,840.00",ONLINE,"₹3,840.00",₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,472,Cash Sale (rajak),Sale,"₹1,620.50",ONLINE,"₹1,270.50",₹350.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,473,Cash Sale (ballan),Sale,₹168.00,ONLINE,₹168.00,₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,474,Cash Sale (ravi ji),Sale,₹120.00,CASH,₹120.00,₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,475,Cash Sale (kamlesh),Sale,"₹2,242.00",CASH,"₹2,242.00",₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,476,Cash Sale (shubham),Sale,₹131.00,ONLINE,₹131.00,₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,477,meen,Sale,₹126.00,ONLINE,₹126.00,₹0.00,2026-04,April,Thursday,16,FALSE
+4/16/2026,478,Cash Sale,Sale,₹710.00,ONLINE,₹710.00,₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,479,Cash Sale (shiva dubey),Sale,₹440.00,ONLINE,₹440.00,₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,480,Cash Sale,Sale,₹761.00,ONLINE,₹761.00,₹0.00,2026-04,April,Thursday,16,TRUE
+4/16/2026,581,sai prabha,Sale,"₹1,566.00",ONLINE,₹0.00,"₹1,566.00",2026-04,April,Thursday,16,FALSE
+4/17/2026,481,Cash Sale,Sale,"₹5,180.00",ONLINE,"₹5,180.00",₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,482,Cash Sale,Sale,₹204.00,ONLINE,₹204.00,₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,483,Cash Sale,Sale,₹125.00,ONLINE,₹125.00,₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,484,mamta agarwal,Sale,"₹2,650.00",ONLINE,₹0.00,"₹2,650.00",2026-04,April,Friday,16,FALSE
+4/17/2026,485,pradeep  gatiman ji,Sale,₹920.00,ONLINE,₹920.00,₹0.00,2026-04,April,Friday,16,FALSE
+4/17/2026,486,Cash Sale,Sale,₹550.00,CASH,₹550.00,₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,487,KASHI,Sale,"₹1,408.00",CASH,₹0.00,"₹1,408.00",2026-04,April,Friday,16,FALSE
+4/17/2026,488,Cash Sale,Sale,₹300.00,ONLINE,₹300.00,₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,489,Cash Sale,Sale,"₹1,540.00",ONLINE,"₹1,540.00",₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,490,Cash Sale,Sale,₹853.00,ONLINE,₹853.00,₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,491,Cash Sale,Sale,"₹1,575.00",ONLINE,"₹1,575.00",₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,492,Cash Sale,Sale,₹120.00,ONLINE,₹120.00,₹0.00,2026-04,April,Friday,16,TRUE
+4/17/2026,494,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Friday,16,FALSE
+4/17/2026,495,gauri enterprises,Sale,₹10.00,ONLINE,₹0.00,₹10.00,2026-04,April,Friday,16,FALSE
+4/17/2026,512,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Friday,16,FALSE
+4/17/2026,513,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Friday,16,FALSE
+4/18/2026,496,KASHI,Sale,₹110.00,ONLINE,₹0.00,₹110.00,2026-04,April,Saturday,16,FALSE
+4/18/2026,497,Cash Sale (deepak),Sale,"₹1,798.00",ONLINE,"₹1,700.00",₹98.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,498,Cash Sale,Sale,₹140.00,ONLINE,₹140.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,499,Cash Sale,Sale,₹110.00,ONLINE,₹110.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,500,Cash Sale,Sale,₹840.00,ONLINE,₹840.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,501,Cash Sale,Sale,₹90.00,ONLINE,₹90.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,502,Cash Sale,Sale,₹200.00,ONLINE,₹200.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,503,Cash Sale,Sale,"₹2,450.06",ONLINE,"₹2,450.06",₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,504,Cash Sale (rajan),Sale,₹696.00,ONLINE,₹696.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,505,Cash Sale,Sale,₹400.00,ONLINE,₹400.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,506,Cash Sale,Sale,₹704.00,ONLINE,₹704.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,507,Cash Sale,Sale,₹710.00,ONLINE,₹710.00,₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,508,Cash Sale (9098490913),Sale,"₹1,390.00",ONLINE,"₹1,390.00",₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,509,Cash Sale (ashish verma alu.),Sale,"₹2,206.00",ONLINE,"₹2,206.00",₹0.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,510,aameer,Sale,"₹1,008.00",CASH,"₹1,000.00",₹8.00,2026-04,April,Saturday,16,FALSE
+4/18/2026,511,Cash Sale,Sale,"₹1,028.00",CASH,"₹1,008.00",₹20.00,2026-04,April,Saturday,16,TRUE
+4/18/2026,514,chhotu,Sale,"₹1,156.00",CASH,"₹1,156.00",₹0.00,2026-04,April,Saturday,16,FALSE
+4/18/2026,551,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Saturday,16,FALSE
+4/19/2026,515,praveen meenal steel,Sale,₹203.00,CASH,₹0.00,₹203.00,2026-04,April,Sunday,16,FALSE
+4/19/2026,516,Cash Sale,Sale,₹200.00,CASH,₹200.00,₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,517,Cash Sale (yogendra),Sale,₹441.00,CASH,₹441.00,₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,518,Cash Sale,Sale,₹611.00,CASH,₹611.00,₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,519,Cash Sale (ashish verma),Sale,"₹1,491.00",CASH,"₹1,491.00",₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,520,Cash Sale,Sale,"₹1,866.00",CASH,"₹1,866.00",₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,521,Cash Sale (basant kushwaha),Sale,₹987.00,CASH,₹987.00,₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,522,Cash Sale,Sale,"₹2,814.00",CASH,"₹2,814.00",₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,523,Cash Sale,Sale,"₹1,390.00",CASH,"₹1,390.00",₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,524,Cash Sale,Sale,₹210.00,CASH,₹210.00,₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,525,Cash Sale (deepak),Sale,"₹1,092.00",CASH,"₹1,092.00",₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,526,yadav steel,Sale,"₹3,465.00",CASH,₹0.00,"₹3,465.00",2026-04,April,Sunday,16,FALSE
+4/19/2026,527,Cash Sale (kamlesh),Sale,"₹3,675.00",CASH,"₹3,675.00",₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,528,Cash Sale (rakesh),Sale,₹646.00,CASH,₹646.00,₹0.00,2026-04,April,Sunday,16,TRUE
+4/19/2026,552,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Sunday,16,FALSE
+4/19/2026,553,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Sunday,16,FALSE
+4/20/2026,529,Cash Sale,Sale,₹35.00,CASH,₹35.00,₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,530,Cash Sale,Sale,₹505.00,CASH,₹505.00,₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,531,Cash Sale,Sale,"₹1,650.00",CASH,"₹1,650.00",₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,532,Cash Sale,Sale,₹150.00,CASH,₹150.00,₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,533,Cash Sale,Sale,₹200.00,CASH,₹200.00,₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,534,Cash Sale (sunny meena),Sale,"₹1,540.00",CASH,"₹1,540.00",₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,535,Cash Sale,Sale,₹380.00,CASH,₹380.00,₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,536,Cash Sale,Sale,₹911.00,CASH,₹911.00,₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,537,Cash Sale (ravi ji),Sale,"₹1,280.00",CASH,"₹1,280.00",₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,538,yadav steel,Sale,₹341.00,CASH,₹0.00,₹341.00,2026-04,April,Monday,17,FALSE
+4/20/2026,539,Cash Sale (yogendra),Sale,"₹1,072.00",CASH,"₹1,072.00",₹0.00,2026-04,April,Monday,17,TRUE
+4/20/2026,540,praveen meenal steel,Sale,₹289.00,CASH,₹0.00,₹289.00,2026-04,April,Monday,17,FALSE
+4/20/2026,542,shubham wishwakarma,Sale,"₹13,759.00",CASH,₹0.00,"₹13,759.00",2026-04,April,Monday,17,FALSE
+4/20/2026,543,bhoomika,Sale,"₹3,129.00",CASH,₹0.00,"₹3,129.00",2026-04,April,Monday,17,FALSE
+4/20/2026,555,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Monday,17,FALSE
+4/21/2026,544,tillu,Sale,₹545.00,CASH,₹545.00,₹0.00,2026-04,April,Tuesday,17,FALSE
+4/21/2026,545,Cash Sale,Sale,"₹20,040.00",CASH,"₹20,040.00",₹0.00,2026-04,April,Tuesday,17,TRUE
+4/21/2026,546,Cash Sale (8817999998),Sale,"₹6,998.00",CASH,"₹6,998.00",₹0.00,2026-04,April,Tuesday,17,TRUE
+4/21/2026,547,Cash Sale,Sale,"₹6,225.00",CASH,"₹6,225.00",₹0.00,2026-04,April,Tuesday,17,TRUE
+4/21/2026,548,sahil,Sale,"₹4,042.00",CASH,"₹2,000.00","₹2,042.00",2026-04,April,Tuesday,17,FALSE
+4/21/2026,549,Cash Sale (anand),Sale,₹750.00,CASH,₹750.00,₹0.00,2026-04,April,Tuesday,17,TRUE
+4/21/2026,550,Cash Sale,Sale,₹90.00,CASH,₹90.00,₹0.00,2026-04,April,Tuesday,17,TRUE
+4/21/2026,554,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Tuesday,17,FALSE
+4/21/2026,556,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Tuesday,17,FALSE
+4/21/2026,557,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Tuesday,17,FALSE
+4/21/2026,558,Cash Sale,Sale,₹144.00,CASH,₹144.00,₹0.00,2026-04,April,Tuesday,17,TRUE
+4/21/2026,559,Cash Sale,Sale,₹230.00,CASH,₹230.00,₹0.00,2026-04,April,Tuesday,17,TRUE
+4/21/2026,560,Cash Sale,Sale,₹330.00,CASH,₹330.00,₹0.00,2026-04,April,Tuesday,17,TRUE
+4/22/2026,561,Cash Sale,Sale,"₹1,754.00",CASH,"₹1,754.00",₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,562,Cash Sale (amir),Sale,"₹2,601.00",CASH,"₹2,601.00",₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,563,Cash Sale,Sale,₹170.00,CASH,₹170.00,₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,564,praveen meenal steel,Sale,"₹3,743.00",CASH,₹0.00,"₹3,743.00",2026-04,April,Wednesday,17,FALSE
+4/22/2026,565,Cash Sale (sunny meena),Sale,₹170.00,CASH,₹170.00,₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,566,santosh bhau,Sale,"₹15,163.00",CASH,₹0.00,"₹15,163.00",2026-04,April,Wednesday,17,FALSE
+4/22/2026,567,Cash Sale,Sale,₹128.00,CASH,₹128.00,₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,568,praveen meenal steel,Sale,₹800.00,CASH,₹0.00,₹800.00,2026-04,April,Wednesday,17,FALSE
+4/22/2026,569,Cash Sale,Sale,"₹2,572.00",CASH,"₹2,572.00",₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,570,Cash Sale,Sale,₹612.00,CASH,₹612.00,₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,571,Cash Sale (gatiman),Sale,₹758.00,CASH,₹758.00,₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,572,yadav steel,Sale,"₹6,174.00",CASH,₹0.00,"₹6,174.00",2026-04,April,Wednesday,17,FALSE
+4/22/2026,573,Cash Sale,Sale,₹588.00,ONLINE,₹588.00,₹0.00,2026-04,April,Wednesday,17,TRUE
+4/22/2026,574,santosh bhau,Sale,"₹5,716.00",ONLINE,₹0.00,"₹5,716.00",2026-04,April,Wednesday,17,FALSE
+4/22/2026,575,Cash Sale,Sale,₹280.00,CASH,₹280.00,₹0.00,2026-04,April,Wednesday,17,TRUE
+4/23/2026,576,Cash Sale (ravi ji),Sale,"₹2,433.00",CASH,"₹2,433.00",₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,577,Cash Sale (kamlesh),Sale,"₹4,623.00",CASH,"₹4,623.00",₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,578,Cash Sale (aadil),Sale,"₹2,216.00",ONLINE,"₹2,216.00",₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,579,Cash Sale,Sale,₹320.00,ONLINE,₹320.00,₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,580,praveen meenal steel,Sale,₹87.00,ONLINE,₹0.00,₹87.00,2026-04,April,Thursday,17,FALSE
+4/23/2026,582,Cash Sale,Sale,₹273.00,ONLINE,₹273.00,₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,583,Cash Sale (jaagidaar),Sale,₹115.00,ONLINE,₹115.00,₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,584,Cash Sale (soni),Sale,₹599.00,ONLINE,₹599.00,₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,585,Cash Sale,Sale,₹933.00,CASH,₹933.00,₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,586,pradeep  gatiman ji,Sale,₹577.00,CASH,₹0.00,₹577.00,2026-04,April,Thursday,17,FALSE
+4/23/2026,587,yadav steel,Sale,"₹6,416.00",CASH,₹0.00,"₹6,416.00",2026-04,April,Thursday,17,FALSE
+4/23/2026,588,Cash Sale,Sale,₹220.00,CASH,₹220.00,₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,589,gauri enterprises,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Thursday,17,FALSE
+4/23/2026,590,Cash Sale (purnima glass),Sale,"₹2,627.00",CASH,"₹2,627.00",₹0.00,2026-04,April,Thursday,17,TRUE
+4/23/2026,591,santosh bhau,Sale,₹514.00,CASH,₹0.00,₹514.00,2026-04,April,Thursday,17,FALSE
+4/23/2026,592,Cash Sale,Sale,"₹1,562.00",ONLINE,"₹1,562.00",₹0.00,2026-04,April,Thursday,17,TRUE
+4/24/2026,593,mamta agarwal,Sale,"₹1,754.00",ONLINE,₹0.00,"₹1,754.00",2026-04,April,Friday,17,FALSE
+4/24/2026,594,Cash Sale,Sale,₹762.00,ONLINE,₹762.00,₹0.00,2026-04,April,Friday,17,TRUE
+4/24/2026,595,Cash Sale (rakesh (Anchal aluminium)),Sale,"₹2,142.00",ONLINE,"₹2,142.00",₹0.00,2026-04,April,Friday,17,TRUE
+4/24/2026,596,yadav steel,Sale,₹588.00,ONLINE,₹0.00,₹588.00,2026-04,April,Friday,17,FALSE
+4/24/2026,597,Shreyansh soni,Sale,"₹9,324.00",ONLINE,₹0.00,"₹9,324.00",2026-04,April,Friday,17,FALSE
+4/24/2026,598,Cash Sale,Sale,₹142.00,ONLINE,₹142.00,₹0.00,2026-04,April,Friday,17,TRUE
+4/24/2026,599,amit belder,Sale,"₹3,452.00",ONLINE,₹0.00,"₹3,452.00",2026-04,April,Friday,17,FALSE
+4/24/2026,600,Cash Sale (yogesh patel),Sale,₹582.00,ONLINE,₹582.00,₹0.00,2026-04,April,Friday,17,TRUE
+4/24/2026,601,santosh bhau,Sale,₹619.00,ONLINE,₹0.00,₹619.00,2026-04,April,Friday,17,FALSE
+4/24/2026,602,shiva dubey,Sale,₹399.00,ONLINE,₹399.00,₹0.00,2026-04,April,Friday,17,FALSE
+4/24/2026,603,Cash Sale,Sale,"₹1,080.00",ONLINE,"₹1,080.00",₹0.00,2026-04,April,Friday,17,TRUE
+4/24/2026,604,mamta agarwal,Sale,"₹6,496.00",ONLINE,₹0.00,"₹6,496.00",2026-04,April,Friday,17,FALSE
+4/24/2026,605,Cash Sale,Sale,"₹7,642.00",ONLINE,"₹7,642.00",₹0.00,2026-04,April,Friday,17,TRUE
+4/24/2026,606,Shreyansh soni,Sale,₹128.00,ONLINE,₹0.00,₹128.00,2026-04,April,Friday,17,FALSE
+4/24/2026,607,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Friday,17,FALSE
+4/24/2026,608,gauri enterprises,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Friday,17,FALSE
+4/24/2026,610,Cash Sale,Sale,₹300.00,CASH,₹300.00,₹0.00,2026-04,April,Friday,17,TRUE
+4/25/2026,609,Cash Sale,Sale,₹380.00,CASH,₹0.00,₹380.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,611,Cash Sale (yogendra ji),Sale,"₹2,519.00",CASH,"₹2,519.00",₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,612,sardar,Sale,₹252.00,CASH,₹252.00,₹0.00,2026-04,April,Saturday,17,FALSE
+4/25/2026,613,Cash Sale (kamlesh),Sale,₹725.00,CASH,₹725.00,₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,614,Cash Sale (hatim bhai),Sale,₹450.00,ONLINE,₹450.00,₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,615,sai prabha,Sale,"₹23,571.00",ONLINE,₹0.00,"₹23,571.00",2026-04,April,Saturday,17,FALSE
+4/25/2026,616,sai prabha,Sale,"₹1,320.00",ONLINE,₹0.00,"₹1,320.00",2026-04,April,Saturday,17,FALSE
+4/25/2026,617,Cash Sale,Sale,₹290.00,ONLINE,₹290.00,₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,618,sai prabha,Sale,₹740.00,ONLINE,₹0.00,₹740.00,2026-04,April,Saturday,17,FALSE
+4/25/2026,619,YOGENDRA,Sale,₹870.00,ONLINE,₹870.00,₹0.00,2026-04,April,Saturday,17,FALSE
+4/25/2026,620,Cash Sale (YOGENDRA),Sale,"₹2,726.00",ONLINE,"₹2,726.00",₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,621,mamta agarwal,Sale,"₹4,100.00",ONLINE,₹0.00,"₹4,100.00",2026-04,April,Saturday,17,FALSE
+4/25/2026,622,Cash Sale (TULSI),Sale,₹780.00,ONLINE,₹780.00,₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,623,Cash Sale (ASHISH VERMA),Sale,₹414.00,ONLINE,₹414.00,₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,624,Cash Sale,Sale,"₹2,085.00",ONLINE,"₹2,085.00",₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,625,mamta agarwal,Sale,₹749.00,ONLINE,₹0.00,₹749.00,2026-04,April,Saturday,17,FALSE
+4/25/2026,627,Cash Sale (SHUBHAM),Sale,₹898.00,ONLINE,₹898.00,₹0.00,2026-04,April,Saturday,17,TRUE
+4/25/2026,628,mamta agarwal,Sale,₹210.00,ONLINE,₹0.00,₹210.00,2026-04,April,Saturday,17,FALSE
+4/25/2026,629,Shreyansh soni,Sale,₹712.00,ONLINE,₹712.00,₹0.00,2026-04,April,Saturday,17,FALSE
+4/25/2026,630,Cash Sale (AMJAD KHAN),Sale,₹577.00,ONLINE,₹577.00,₹0.00,2026-04,April,Saturday,17,TRUE
+4/26/2026,626,Cash Sale,Sale,"₹3,306.00",ONLINE,"₹3,306.00",₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,631,Cash Sale,Sale,₹130.00,CASH,₹130.00,₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,632,yadav steel,Sale,"₹1,620.00",CASH,"₹1,000.00",₹620.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,633,Cash Sale,Sale,₹130.00,ONLINE,₹130.00,₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,634,Cash Sale (HATIM),Sale,₹525.00,ONLINE,₹525.00,₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,635,YOGESH (MINAL WALA),Sale,"₹2,205.00",ONLINE,"₹1,205.00","₹1,000.00",2026-04,April,Sunday,17,FALSE
+4/26/2026,636,Cash Sale (ARJUN THEKEDAR),Sale,"₹1,794.00",ONLINE,"₹1,794.00",₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,637,RAJU SELF,Sale,"₹1,868.00",ONLINE,₹0.00,"₹1,868.00",2026-04,April,Sunday,17,FALSE
+4/26/2026,638,Cash Sale (BASANT),Sale,"₹1,650.00",ONLINE,"₹1,650.00",₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,639,ARJUN THEKEDAAR,Sale,"₹8,600.00",ONLINE,₹0.00,"₹8,600.00",2026-04,April,Sunday,17,FALSE
+4/26/2026,640,mamta agarwal,Sale,"₹3,987.00",ONLINE,₹0.00,"₹3,987.00",2026-04,April,Sunday,17,FALSE
+4/26/2026,641,Cash Sale,Sale,₹631.00,ONLINE,₹0.00,₹631.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,642,Cash Sale (HATIM BHAI),Sale,₹788.00,ONLINE,₹788.00,₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,643,Shreyansh soni,Sale,"₹1,617.00",ONLINE,"₹1,617.00",₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,644,Cash Sale (BOMBAY GLASS),Sale,₹448.00,ONLINE,₹448.00,₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,645,Shreyansh soni,Sale,₹189.00,ONLINE,₹0.00,₹189.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,646,Shreyansh soni,Sale,₹60.00,ONLINE,₹0.00,₹60.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,647,ARJUN THEKEDAAR,Sale,₹384.00,ONLINE,₹384.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,648,Cash Sale,Sale,₹880.00,ONLINE,₹880.00,₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,649,Cash Sale,Sale,₹120.00,ONLINE,₹120.00,₹0.00,2026-04,April,Sunday,17,TRUE
+4/26/2026,650,PAWAN SITE (PRIYANKA NAGAR ),Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,651,priyanka nagar site,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,652,SKON MANDIR SITE,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,691,mamta agarwal,Sale,"₹3,987.00",CASH,"₹3,987.00",₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,717,priyanka nagar,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,718,skon mandir,Sale,₹1.00,CASH,₹1.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,719,ishaan shrivastav site,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/26/2026,720,skon mandir (door material),Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Sunday,17,FALSE
+4/27/2026,653,chhotu faheem,Sale,"₹6,735.00",ONLINE,"₹6,735.00",₹0.00,2026-04,April,Monday,18,FALSE
+4/27/2026,654,chhotu faheem,Sale,"₹8,730.00",ONLINE,₹0.00,"₹8,730.00",2026-04,April,Monday,18,FALSE
+4/27/2026,655,Shreyansh soni,Sale,₹625.00,ONLINE,₹625.00,₹0.00,2026-04,April,Monday,18,FALSE
+4/27/2026,656,Cash Sale,Sale,₹180.00,ONLINE,₹180.00,₹0.00,2026-04,April,Monday,18,TRUE
+4/27/2026,657,praveen meenal steel,Sale,"₹5,963.00",ONLINE,₹0.00,"₹5,963.00",2026-04,April,Monday,18,FALSE
+4/27/2026,658,manav ji,Sale,"₹11,971.00",CASH,"₹6,000.00","₹5,971.00",2026-04,April,Monday,18,FALSE
+4/27/2026,659,Cash Sale,Sale,₹30.00,CASH,₹30.00,₹0.00,2026-04,April,Monday,18,TRUE
+4/27/2026,660,Shreyansh soni,Sale,"₹8,159.00",CASH,₹0.00,"₹8,159.00",2026-04,April,Monday,18,FALSE
+4/27/2026,661,Cash Sale,Sale,"₹3,800.00",CASH,"₹3,800.00",₹0.00,2026-04,April,Monday,18,TRUE
+4/27/2026,662,praveen meenal steel,Sale,"₹4,116.00",CASH,₹0.00,"₹4,116.00",2026-04,April,Monday,18,FALSE
+4/27/2026,663,yogendra sir,Sale,"₹2,394.00",CASH,₹0.00,"₹2,394.00",2026-04,April,Monday,18,FALSE
+4/27/2026,664,anil jha,Sale,₹670.00,CASH,₹0.00,₹670.00,2026-04,April,Monday,18,FALSE
+4/27/2026,721,pradeep (site material),Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Monday,18,FALSE
+4/28/2026,665,RAJU SELF,Sale,"₹1,145.00",ONLINE,₹145.00,"₹1,000.00",2026-04,April,Tuesday,18,FALSE
+4/28/2026,666,panna laal,Sale,"₹2,237.00",ONLINE,"₹1,200.00","₹1,037.00",2026-04,April,Tuesday,18,FALSE
+4/28/2026,667,Cash Sale,Sale,₹152.00,ONLINE,₹152.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,668,Cash Sale,Sale,₹785.00,ONLINE,₹785.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,669,Cash Sale,Sale,"₹2,560.00",ONLINE,"₹2,560.00",₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,670,Shreyansh soni,Sale,"₹1,310.00",ONLINE,₹0.00,"₹1,310.00",2026-04,April,Tuesday,18,FALSE
+4/28/2026,671,Shreyansh soni,Sale,₹570.00,ONLINE,₹0.00,₹570.00,2026-04,April,Tuesday,18,FALSE
+4/28/2026,672,Cash Sale (umesh rajput),Sale,"₹3,689.00",ONLINE,"₹3,689.00",₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,673,Cash Sale,Sale,"₹2,312.00",CASH,"₹2,312.00",₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,674,Cash Sale (nisha),Sale,"₹1,764.00",CASH,"₹1,764.00",₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,675,praveen meenal steel,Sale,₹140.00,CASH,₹0.00,₹140.00,2026-04,April,Tuesday,18,FALSE
+4/28/2026,676,rajak,Sale,₹200.00,CASH,₹0.00,₹200.00,2026-04,April,Tuesday,18,FALSE
+4/28/2026,677,Cash Sale (panna laal),Sale,₹110.00,ONLINE,₹110.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,678,praveen meenal steel,Sale,₹708.00,CASH,₹0.00,₹708.00,2026-04,April,Tuesday,18,FALSE
+4/28/2026,679,Cash Sale,Sale,₹80.00,CASH,₹80.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,680,Cash Sale,Sale,"₹1,030.00",CASH,"₹1,030.00",₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,681,Cash Sale,Sale,₹808.00,CASH,₹808.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,682,Cash Sale,Sale,₹80.00,CASH,₹80.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,683,Shreyansh soni,Sale,₹578.00,CASH,₹70.00,₹508.00,2026-04,April,Tuesday,18,FALSE
+4/28/2026,684,Cash Sale,Sale,₹412.00,CASH,₹412.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,685,Cash Sale,Sale,₹247.00,ONLINE,₹247.00,₹0.00,2026-04,April,Tuesday,18,TRUE
+4/28/2026,724,sudhanshu site,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Tuesday,18,FALSE
+4/29/2026,686,chhotu faheem,Sale,"₹1,832.00",CASH,₹0.00,"₹1,832.00",2026-04,April,Wednesday,18,FALSE
+4/29/2026,687,Cash Sale,Sale,"₹1,522.00",CASH,"₹1,500.00",₹22.00,2026-04,April,Wednesday,18,TRUE
+4/29/2026,688,Cash Sale,Sale,"₹1,010.00",ONLINE,"₹1,010.00",₹0.00,2026-04,April,Wednesday,18,TRUE
+4/29/2026,689,praveen meenal steel,Sale,₹180.00,CASH,₹0.00,₹180.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,690,Cash Sale (panna laal),Sale,₹200.00,CASH,₹200.00,₹0.00,2026-04,April,Wednesday,18,TRUE
+4/29/2026,692,mamta agarwal,Sale,"₹8,983.00",CASH,₹0.00,"₹8,983.00",2026-04,April,Wednesday,18,FALSE
+4/29/2026,693,rajak,Sale,₹100.00,ONLINE,₹100.00,₹0.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,694,kamlesh,Sale,"₹5,570.00",ONLINE,₹0.00,"₹5,570.00",2026-04,April,Wednesday,18,FALSE
+4/29/2026,695,Cash Sale,Sale,₹200.00,CASH,₹200.00,₹0.00,2026-04,April,Wednesday,18,TRUE
+4/29/2026,696,ravi sir,Sale,"₹1,815.00",CASH,"₹1,815.00",₹0.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,697,hatim bhai,Sale,₹276.00,CASH,₹276.00,₹0.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,698,Cash Sale,Sale,₹690.00,CASH,₹690.00,₹0.00,2026-04,April,Wednesday,18,TRUE
+4/29/2026,699,samad,Sale,₹445.00,CASH,₹0.00,₹445.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,700,Cash Sale,Sale,₹300.00,CASH,₹300.00,₹0.00,2026-04,April,Wednesday,18,TRUE
+4/29/2026,701,sardar ji binny,Sale,"₹4,604.00",CASH,₹0.00,"₹4,604.00",2026-04,April,Wednesday,18,FALSE
+4/29/2026,702,praveen meenal steel,Sale,"₹1,210.00",CASH,₹0.00,"₹1,210.00",2026-04,April,Wednesday,18,FALSE
+4/29/2026,703,ravi sir,Sale,₹907.00,CASH,₹0.00,₹907.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,704,Shreyansh soni,Sale,₹306.00,CASH,₹0.00,₹306.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,722,prashant more site,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,723,pushplata shinde site,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,725,kanha kunj site,Sale,₹54.00,CASH,₹0.00,₹54.00,2026-04,April,Wednesday,18,FALSE
+4/29/2026,726,(doctor)site,Sale,₹0.00,CASH,₹0.00,₹0.00,2026-04,April,Wednesday,18,FALSE
+4/30/2026,705,Cash Sale,Sale,₹174.00,CASH,₹174.00,₹0.00,2026-04,April,Thursday,18,TRUE
+4/30/2026,706,praveen meenal steel,Sale,"₹1,755.00",CASH,₹0.00,"₹1,755.00",2026-04,April,Thursday,18,FALSE
+4/30/2026,707,praveen meenal steel,Sale,₹256.00,CASH,₹0.00,₹256.00,2026-04,April,Thursday,18,FALSE
+4/30/2026,708,Shreyansh soni,Sale,"₹3,619.00",CASH,₹0.00,"₹3,619.00",2026-04,April,Thursday,18,FALSE
+4/30/2026,709,Cash Sale (gatimaan),Sale,"₹5,092.00",ONLINE,"₹5,092.00",₹0.00,2026-04,April,Thursday,18,TRUE
+4/30/2026,710,praveen meenal steel,Sale,₹887.00,CASH,₹0.00,₹887.00,2026-04,April,Thursday,18,FALSE
+4/30/2026,711,Cash Sale,Sale,₹97.00,CASH,₹97.00,₹0.00,2026-04,April,Thursday,18,TRUE
+4/30/2026,712,Cash Sale (panna laal),Sale,₹40.00,CASH,₹40.00,₹0.00,2026-04,April,Thursday,18,TRUE
+4/30/2026,713,chhotu faheem,Sale,"₹1,069.00",CASH,₹0.00,"₹1,069.00",2026-04,April,Thursday,18,FALSE
+4/30/2026,714,Cash Sale,Sale,₹40.00,CASH,₹40.00,₹0.00,2026-04,April,Thursday,18,TRUE
+4/30/2026,715,Cash Sale (praveen shukla ji),Sale,₹808.00,CASH,₹808.00,₹0.00,2026-04,April,Thursday,18,TRUE
+4/30/2026,716,Cash Sale (samrendar ji),Sale,"₹1,250.00",CASH,"₹1,250.00",₹0.00,2026-04,April,Thursday,18,TRUE
+4/30/2026,727,RAJU SELF,Sale,"₹4,921.00",CASH,₹0.00,"₹4,921.00",2026-04,April,Thursday,18,FALSE
+4/30/2026,728,sardar ji binny,Sale,₹220.00,ONLINE,₹220.00,₹0.00,2026-04,April,Thursday,18,FALSE
+4/30/2026,729,chhotu faheem,Sale,₹308.00,ONLINE,₹308.00,₹0.00,2026-04,April,Thursday,18,FALSE
+4/30/2026,730,satendra shrivastava,Sale,"₹23,665.00",ONLINE,"₹2,000.00","₹21,665.00",2026-04,April,Thursday,18,FALSE
+4/30/2026,731,sardar ji binny,Sale,"₹1,188.00",ONLINE,₹0.00,"₹1,188.00",2026-04,April,Thursday,18,FALSE
+5/1/2026,732,sandeep,Sale,"₹2,831.00",ONLINE,"₹2,831.00",₹0.00,2026-05,May,Friday,18,FALSE
+5/1/2026,733,Cash Sale,Sale,"₹1,330.00",ONLINE,"₹1,330.00",₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,734,Cash Sale,Sale,₹665.00,ONLINE,₹665.00,₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,735,Cash Sale (ajay alu self),Sale,"₹4,423.00",ONLINE,"₹4,423.00",₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,736,Cash Sale,Sale,"₹1,400.00",ONLINE,"₹1,400.00",₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,737,Cash Sale (chotu),Sale,₹218.00,ONLINE,₹218.00,₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,738,Cash Sale,Sale,"₹2,640.00",ONLINE,"₹2,640.00",₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,739,yadav steel,Sale,₹950.00,ONLINE,₹0.00,₹950.00,2026-05,May,Friday,18,FALSE
+5/1/2026,740,chhotu faheem,Sale,₹637.00,ONLINE,₹0.00,₹637.00,2026-05,May,Friday,18,FALSE
+5/1/2026,741,Cash Sale,Sale,"₹10,271.00",ONLINE,"₹10,271.00",₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,742,Cash Sale (yogendra),Sale,"₹2,044.00",CASH,"₹2,044.00",₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,743,Cash Sale,Sale,"₹3,403.00",CASH,"₹3,403.00",₹0.00,2026-05,May,Friday,18,TRUE
+5/1/2026,744,Cash Sale (deepak),Sale,₹275.00,CASH,₹275.00,₹0.00,2026-05,May,Friday,18,TRUE
+5/2/2026,745,chhotu faheem,Sale,₹110.00,CASH,₹0.00,₹110.00,2026-05,May,Saturday,18,FALSE
+5/2/2026,746,Cash Sale,Sale,₹110.00,CASH,₹110.00,₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,747,Cash Sale,Sale,₹375.00,CASH,₹375.00,₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,748,Cash Sale (nisha),Sale,"₹1,504.00",CASH,"₹1,504.00",₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,749,Shreyansh soni,Sale,₹250.00,CASH,₹0.00,₹250.00,2026-05,May,Saturday,18,FALSE
+5/2/2026,750,mamta agarwal,Sale,"₹2,844.00",CASH,₹0.00,"₹2,844.00",2026-05,May,Saturday,18,FALSE
+5/2/2026,751,Cash Sale,Sale,₹120.00,CASH,₹120.00,₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,752,amit belder,Sale,₹40.00,ONLINE,₹40.00,₹0.00,2026-05,May,Saturday,18,FALSE
+5/2/2026,753,Cash Sale (kamlesh),Sale,₹320.00,ONLINE,₹320.00,₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,754,mamta agarwal,Sale,₹495.00,ONLINE,₹0.00,₹495.00,2026-05,May,Saturday,18,FALSE
+5/2/2026,755,Shreyansh soni,Sale,₹128.00,ONLINE,₹0.00,₹128.00,2026-05,May,Saturday,18,FALSE
+5/2/2026,756,praveen meenal steel,Sale,"₹1,857.20",ONLINE,₹0.00,"₹1,857.20",2026-05,May,Saturday,18,FALSE
+5/2/2026,757,Cash Sale,Sale,"₹2,326.00",ONLINE,"₹2,326.00",₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,758,praveen meenal steel,Sale,₹520.00,ONLINE,₹0.00,₹520.00,2026-05,May,Saturday,18,FALSE
+5/2/2026,759,Cash Sale,Sale,₹555.00,ONLINE,₹555.00,₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,837,Cash Sale (doctor site material),Sale,₹225.00,ONLINE,₹225.00,₹0.00,2026-05,May,Saturday,18,TRUE
+5/2/2026,838,site self,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-05,May,Saturday,18,FALSE
+5/3/2026,760,Cash Sale,Sale,"₹4,200.00",ONLINE,"₹4,200.00",₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,761,Cash Sale (manglam granites),Sale,"₹6,788.00",ONLINE,"₹6,788.00",₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,762,Shreyansh soni,Sale,"₹2,072.00",ONLINE,₹500.00,"₹1,572.00",2026-05,May,Sunday,18,FALSE
+5/3/2026,763,Shreyansh soni,Sale,₹72.00,ONLINE,₹0.00,₹72.00,2026-05,May,Sunday,18,FALSE
+5/3/2026,764,Shreyansh soni,Sale,₹504.00,ONLINE,₹0.00,₹504.00,2026-05,May,Sunday,18,FALSE
+5/3/2026,765,Cash Sale,Sale,₹810.00,ONLINE,₹810.00,₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,766,Cash Sale,Sale,₹8.00,ONLINE,₹8.00,₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,767,Cash Sale,Sale,₹160.00,ONLINE,₹160.00,₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,768,Cash Sale,Sale,₹616.00,ONLINE,₹616.00,₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,769,Cash Sale,Sale,₹336.00,CASH,₹336.00,₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,770,Cash Sale,Sale,"₹1,260.00",CASH,"₹1,260.00",₹0.00,2026-05,May,Sunday,18,TRUE
+5/3/2026,771,Cash Sale,Sale,"₹1,229.00",CASH,"₹1,229.00",₹0.00,2026-05,May,Sunday,18,TRUE
+5/4/2026,772,Cash Sale,Sale,₹420.00,CASH,₹420.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,773,Cash Sale (yogendra bhaiya),Sale,"₹1,218.00",CASH,"₹1,218.00",₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,774,Cash Sale,Sale,₹220.00,CASH,₹220.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,776,Cash Sale,Sale,"₹1,511.00",CASH,"₹1,511.00",₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,777,Cash Sale (raju self),Sale,₹756.00,CASH,₹756.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,778,Cash Sale,Sale,₹352.00,CASH,₹352.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,779,chhotu faheem,Sale,"₹6,025.00",CASH,"₹6,020.00",₹5.00,2026-05,May,Monday,19,FALSE
+5/4/2026,780,yogendra sir,Sale,"₹2,049.00",CASH,"₹2,049.00",₹0.00,2026-05,May,Monday,19,FALSE
+5/4/2026,781,Cash Sale,Sale,₹45.00,ONLINE,₹45.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,782,Cash Sale,Sale,₹150.00,ONLINE,₹150.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,783,Cash Sale,Sale,₹150.00,ONLINE,₹150.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,784,Cash Sale,Sale,"₹1,307.00",ONLINE,"₹1,307.00",₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,785,praveen meenal steel,Sale,₹608.00,ONLINE,₹0.00,₹608.00,2026-05,May,Monday,19,FALSE
+5/4/2026,786,amjad,Sale,"₹7,103.00",ONLINE,"₹7,103.00",₹0.00,2026-05,May,Monday,19,FALSE
+5/4/2026,787,Cash Sale (yogendra sir),Sale,"₹1,008.00",ONLINE,"₹1,008.00",₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,788,Cash Sale,Sale,₹600.00,ONLINE,₹600.00,₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,789,RAJU SELF,Sale,₹110.00,ONLINE,₹0.00,₹110.00,2026-05,May,Monday,19,FALSE
+5/4/2026,790,Cash Sale,Sale,"₹1,008.00",CASH,"₹1,008.00",₹0.00,2026-05,May,Monday,19,TRUE
+5/4/2026,791,RAJU SELF,Sale,₹250.00,CASH,₹0.00,₹250.00,2026-05,May,Monday,19,FALSE
+5/4/2026,839,dinesh,Sale,₹130.00,ONLINE,₹130.00,₹0.00,2026-05,May,Monday,19,FALSE
+5/5/2026,792,Cash Sale,Sale,₹100.00,ONLINE,₹100.00,₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,793,Cash Sale,Sale,"₹1,407.00",ONLINE,"₹1,407.00",₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,794,Cash Sale,Sale,₹220.00,ONLINE,₹220.00,₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,795,Cash Sale,Sale,"₹1,279.00",CASH,"₹1,279.00",₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,796,Cash Sale,Sale,"₹8,489.00",CASH,"₹8,489.00",₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,797,Cash Sale,Sale,"₹1,057.00",ONLINE,"₹1,057.00",₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,798,bhoomika,Sale,"₹1,733.00",ONLINE,₹0.00,"₹1,733.00",2026-05,May,Tuesday,19,FALSE
+5/5/2026,799,Cash Sale (yogendra sir),Sale,"₹2,640.00",ONLINE,"₹2,640.00",₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,800,Cash Sale,Sale,₹450.00,CASH,₹450.00,₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,801,kamlesh,Sale,"₹11,737.50",CASH,₹0.00,"₹11,737.50",2026-05,May,Tuesday,19,FALSE
+5/5/2026,802,Cash Sale,Sale,"₹3,437.00",CASH,"₹3,437.00",₹0.00,2026-05,May,Tuesday,19,TRUE
+5/5/2026,803,Cash Sale (purnima glass),Sale,"₹1,024.00",CASH,"₹1,024.00",₹0.00,2026-05,May,Tuesday,19,TRUE
+5/6/2026,804,Cash Sale,Sale,₹225.00,ONLINE,₹225.00,₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,805,Cash Sale,Sale,"₹2,052.00",ONLINE,"₹2,052.00",₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,806,Cash Sale (tvs showroom),Sale,"₹3,437.00",ONLINE,"₹3,437.00",₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,807,anil jha,Sale,"₹14,028.00",ONLINE,₹0.00,"₹14,028.00",2026-05,May,Wednesday,19,FALSE
+5/6/2026,808,Cash Sale (aanchal),Sale,₹720.00,ONLINE,₹720.00,₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,809,Cash Sale (shreyansh soni),Sale,₹216.00,ONLINE,₹216.00,₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,810,Cash Sale,Sale,₹816.00,ONLINE,₹816.00,₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,811,Cash Sale (yogendra sir),Sale,₹336.00,ONLINE,₹336.00,₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,812,praveen meenal steel,Sale,"₹1,996.00",ONLINE,₹0.00,"₹1,996.00",2026-05,May,Wednesday,19,FALSE
+5/6/2026,813,Cash Sale,Sale,₹120.00,ONLINE,₹120.00,₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,814,Cash Sale,Sale,"₹1,004.00",ONLINE,"₹1,004.00",₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,815,Cash Sale,Sale,"₹2,240.00",ONLINE,"₹2,240.00",₹0.00,2026-05,May,Wednesday,19,TRUE
+5/6/2026,816,panna laal,Sale,₹240.00,ONLINE,₹0.00,₹240.00,2026-05,May,Wednesday,19,FALSE
+5/6/2026,840,buffing site,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-05,May,Wednesday,19,FALSE
+5/7/2026,817,Cash Sale (basant),Sale,"₹6,612.00",ONLINE,"₹6,612.00",₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,818,panna laal,Sale,"₹1,375.00",ONLINE,₹0.00,"₹1,375.00",2026-05,May,Thursday,19,FALSE
+5/7/2026,819,RAJU SELF,Sale,"₹16,044.00",ONLINE,₹0.00,"₹16,044.00",2026-05,May,Thursday,19,FALSE
+5/7/2026,820,sandeep,Sale,₹374.00,ONLINE,₹373.00,₹1.00,2026-05,May,Thursday,19,FALSE
+5/7/2026,821,kamlesh,Sale,₹679.00,ONLINE,₹0.00,₹679.00,2026-05,May,Thursday,19,FALSE
+5/7/2026,822,Cash Sale,Sale,"₹4,900.00",ONLINE,"₹4,900.00",₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,823,girnar ji,Sale,₹648.00,ONLINE,₹648.00,₹0.00,2026-05,May,Thursday,19,FALSE
+5/7/2026,824,Cash Sale,Sale,₹80.00,ONLINE,₹80.00,₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,825,Cash Sale (yogesh),Sale,"₹2,484.00",ONLINE,"₹2,484.00",₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,826,Cash Sale (deepak),Sale,₹735.00,ONLINE,₹735.00,₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,827,Cash Sale (aakansha),Sale,"₹4,140.00",ONLINE,"₹4,140.00",₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,828,Cash Sale,Sale,₹160.00,ONLINE,₹160.00,₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,829,RAJU SELF,Sale,"₹4,922.00",ONLINE,"₹4,922.00",₹0.00,2026-05,May,Thursday,19,FALSE
+5/7/2026,830,Cash Sale (yogendra singh),Sale,"₹1,500.00",ONLINE,"₹1,500.00",₹0.00,2026-05,May,Thursday,19,TRUE
+5/7/2026,841,prashant more site,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-05,May,Thursday,19,FALSE
+5/8/2026,831,Cash Sale,Sale,₹528.00,ONLINE,₹528.00,₹0.00,2026-05,May,Friday,19,TRUE
+5/8/2026,832,kamlesh,Sale,₹517.00,ONLINE,₹517.00,₹0.00,2026-05,May,Friday,19,FALSE
+5/8/2026,833,Cash Sale,Sale,"₹3,864.00",ONLINE,"₹3,864.00",₹0.00,2026-05,May,Friday,19,TRUE
+5/8/2026,834,Cash Sale,Sale,₹608.00,ONLINE,₹608.00,₹0.00,2026-05,May,Friday,19,TRUE
+5/8/2026,836,gopal bhaiya,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-05,May,Friday,19,FALSE
+5/9/2026,835,Cash Sale (yogendra bhai),Sale,"₹7,050.00",ONLINE,"₹7,050.00",₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,842,manoj mistri site,Sale,₹0.00,ONLINE,₹0.00,₹0.00,2026-05,May,Saturday,19,FALSE
+5/9/2026,843,Cash Sale,Sale,₹165.00,ONLINE,₹165.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,844,Cash Sale,Sale,₹636.00,ONLINE,₹636.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,845,Cash Sale,Sale,₹252.00,ONLINE,₹252.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,846,Cash Sale,Sale,₹504.00,CASH,₹504.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,847,sai prabha,Sale,"₹9,313.00",CASH,₹0.00,"₹9,313.00",2026-05,May,Saturday,19,FALSE
+5/9/2026,848,Cash Sale,Sale,"₹2,139.00",CASH,"₹2,139.00",₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,849,Cash Sale,Sale,₹568.00,CASH,₹568.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,850,Cash Sale,Sale,₹288.00,ONLINE,₹288.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,851,deepak,Sale,"₹10,478.00",ONLINE,"₹3,000.00","₹7,478.00",2026-05,May,Saturday,19,FALSE
+5/9/2026,852,Shreyansh soni,Sale,₹400.00,ONLINE,₹0.00,₹400.00,2026-05,May,Saturday,19,FALSE
+5/9/2026,853,sudhanshu,Sale,"₹2,543.00",ONLINE,"₹1,000.00","₹1,543.00",2026-05,May,Saturday,19,FALSE
+5/9/2026,854,sudhanshu,Sale,"₹3,783.00",ONLINE,"₹1,000.00","₹2,783.00",2026-05,May,Saturday,19,FALSE
+5/9/2026,855,Shreyansh soni,Sale,₹503.00,ONLINE,₹0.00,₹503.00,2026-05,May,Saturday,19,FALSE
+5/9/2026,856,Cash Sale,Sale,₹150.00,CASH,₹150.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,857,Cash Sale,Sale,₹72.00,CASH,₹72.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/9/2026,858,Cash Sale,Sale,₹260.00,ONLINE,₹260.00,₹0.00,2026-05,May,Saturday,19,TRUE
+5/10/2026,859,Cash Sale (yogendra sir),Sale,"₹2,104.00",ONLINE,"₹2,104.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,860,Cash Sale,Sale,"₹1,734.00",CASH,"₹1,734.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,861,Cash Sale,Sale,"₹2,285.00",ONLINE,"₹2,285.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,862,Cash Sale,Sale,"₹1,200.00",ONLINE,"₹1,200.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,863,Cash Sale,Sale,₹684.00,CASH,₹684.00,₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,864,Cash Sale,Sale,₹575.00,ONLINE,₹575.00,₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,865,Cash Sale,Sale,₹374.00,ONLINE,₹374.00,₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,866,Cash Sale (PANNA LAAL),Sale,"₹7,900.00",ONLINE,"₹7,900.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,867,Cash Sale,Sale,"₹1,610.00",ONLINE,"₹1,610.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,868,Cash Sale (RAVI),Sale,"₹2,400.00",ONLINE,"₹2,400.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,869,Cash Sale,Sale,"₹3,340.00",ONLINE,"₹3,340.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,870,Cash Sale,Sale,₹567.00,ONLINE,₹567.00,₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,871,Cash Sale,Sale,"₹1,260.00",ONLINE,"₹1,260.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,872,Cash Sale,Sale,₹73.00,CASH,₹73.00,₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,873,Cash Sale,Sale,"₹2,820.00",ONLINE,"₹2,820.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,874,Cash Sale,Sale,₹180.00,ONLINE,₹180.00,₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,875,praveen meenal steel,Sale,"₹5,326.00",ONLINE,₹0.00,"₹5,326.00",2026-05,May,Sunday,19,FALSE
+5/10/2026,876,Cash Sale (POORNIMA GLASS),Sale,"₹1,254.00",ONLINE,"₹1,254.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,877,Cash Sale,Sale,₹220.00,CASH,₹220.00,₹0.00,2026-05,May,Sunday,19,TRUE
+5/10/2026,878,Cash Sale (ajit sen),Sale,"₹3,550.00",CASH,"₹3,550.00",₹0.00,2026-05,May,Sunday,19,TRUE
+5/11/2026,879,Cash Sale,Sale,₹720.00,CASH,₹720.00,₹0.00,2026-05,May,Monday,20,TRUE
+5/11/2026,880,Cash Sale,Sale,"₹1,000.00",CASH,"₹1,000.00",₹0.00,2026-05,May,Monday,20,TRUE
+5/11/2026,881,Cash Sale (yogendra),Sale,"₹1,512.00",CASH,"₹1,512.00",₹0.00,2026-05,May,Monday,20,TRUE
+5/11/2026,882,Cash Sale,Sale,₹380.00,CASH,₹380.00,₹0.00,2026-05,May,Monday,20,TRUE
+5/11/2026,883,Cash Sale,Sale,₹399.00,CASH,₹399.00,₹0.00,2026-05,May,Monday,20,TRUE
+5/11/2026,884,Cash Sale,Sale,₹80.00,ONLINE,₹80.00,₹0.00,2026-05,May,Monday,20,TRUE
+5/11/2026,885,Cash Sale,Sale,₹578.00,ONLINE,₹578.00,₹0.00,2026-05,May,Monday,20,TRUE
+5/11/2026,886,YOGENDRA,Sale,₹663.00,ONLINE,₹663.00,₹0.00,2026-05,May,Monday,20,FALSE
+5/12/2026,887,Cash Sale,Sale,"₹4,073.00",ONLINE,"₹4,073.00",₹0.00,2026-05,May,Tuesday,20,TRUE
