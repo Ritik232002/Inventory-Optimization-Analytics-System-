@@ -147,31 +147,31 @@ Business shows strong adoption of digital payments while maintaining significant
 ## Visualizations
 
 ### Customer Segment Contribution
-![Customer Segment Sales](customer_segment_sales.png)
+<img width="1725" height="1067" alt="customer_segment_sales" src="https://github.com/user-attachments/assets/cb2464de-b481-4489-8908-fd7fa55ffa3b" />
 
 ### Outstanding Balance Analysis
-![Outstanding Due](customer_segment_due.png)
+<img width="1725" height="1067" alt="customer_segment_due" src="https://github.com/user-attachments/assets/296f58f2-533b-490b-a3a7-c45128c0a5ca" />
 
 ### Daily Sales Trend
-![Daily Sales Trend](daily_sales_trend.png)
+<img width="1964" height="768" alt="daily_sales_trend" src="https://github.com/user-attachments/assets/b3b2e14a-c6e9-4981-902e-22c3802b5fb5" />
 
 ### Monthly Sales
-![Monthly Sales](monthly_sales.png)
+<img width="640" height="480" alt="monthly_sales" src="https://github.com/user-attachments/assets/63ccd386-5aa1-419d-8102-882e30d7cc90" />
 
 ### Payment Type Distribution
-![Payment Type](payment_type.png)
+<img width="640" height="480" alt="payment_type" src="https://github.com/user-attachments/assets/8cefb3ab-1ac8-4dc7-9776-34003aca73e6" />
 
 ### Category Analysis
-![Top Categories](top_categories.png)
+<img width="1584" height="968" alt="top_categories" src="https://github.com/user-attachments/assets/ab753552-7f3f-4ddc-a880-01f8186949dd" />
 
 ### Product Analysis
-![Top Products](top_products.png)
+<img width="640" height="480" alt="top_products" src="https://github.com/user-attachments/assets/cd122ac6-a7c0-49c2-a3df-58cefeb1ae73" />
 
 ### Weekday Sales
-![Weekday Sales](weekday_sales.png)
+<img width="1568" height="767" alt="weekday_sales" src="https://github.com/user-attachments/assets/799273ac-196b-4ae0-82af-7cf135ae8564" />
 
 ### Top Customers
-![Top Customers](top_customers.png)
+<img width="640" height="480" alt="top_customers" src="https://github.com/user-attachments/assets/94aa8c2e-8742-4002-aaf2-27a84693b27f" />
 
 ---
 
