@@ -180,18 +180,19 @@ Business shows strong adoption of digital payments while maintaining significant
 ```text
 ├── sales data april to may 2026.xlsx
 ├── cleaned_sales_report.csv
-├── etl_pipeline.py
-├── monthly_sales.png
-├── top_customers.png
-├── top_products.png
-├── payment_type.png
-├── payment_share.png
-├── customer_segment_sales.png
-├── customer_segment_due.png
-├── daily_sales_trend.png
-├── top_categories.png
-├── weekday_sales.png
-└── README.md
+├── sales_analytics_pipeline.py
+├── README.md
+└── images/
+    ├── monthly_sales.png
+    ├── top_customers.png
+    ├── top_products.png
+    ├── payment_type.png
+    ├── payment_share.png
+    ├── customer_segment_sales.png
+    ├── customer_segment_due.png
+    ├── daily_sales_trend.png
+    ├── top_categories.png
+    └── weekday_sales.png
 ```
 
 ---
