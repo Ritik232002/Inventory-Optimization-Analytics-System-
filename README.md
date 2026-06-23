@@ -219,10 +219,4 @@ Business shows strong adoption of digital payments while maintaining significant
 
 ---
 
-## Author
-
 Ritik Khare
-
-B.Tech Computer Science & Engineering
-
-Aspiring Data Analyst | SQL | Python | Excel | Power BI
